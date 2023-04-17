@@ -1,0 +1,1 @@
+![[Portfolio/Projets Universitaires/Robot Bipède - optimisation topologique/media/Pasted image 20230415152921.png]]
