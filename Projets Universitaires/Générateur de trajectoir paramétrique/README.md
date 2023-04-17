@@ -8,11 +8,11 @@ La trajectoire est ensuite rÃ©orientÃ©e pour produire un mouvement en 3D dans l'
 
 ## AperÃ§u
 
-![Figure19 Exemple detrajectoire gnrepar les quations paramtriques](G:/My Drive/Professionnel/Recherche d'emplois/Portfolio/Projets Universitaires/Générateur de trajectoir paramétrique\media\Pasted image 20230415183223.png|300)
+![Figure19 Exemple detrajectoire gnrepar les quations paramtriques](media/Pasted%20image%2020230415183223.png%7C300)
 
-![Profil de deplacement horizontal en fonction du temps](G:/My Drive/Professionnel/Recherche d'emplois/Portfolio/Projets Universitaires/Générateur de trajectoir paramétrique\media\Pasted image 20230415183257.png|300)
+![Profil de deplacement horizontal en fonction du temps](media/Pasted%20image%2020230415183257.png%7C300)
 
-![Figure 30  Profil de position vitesse et acceleration de la composante horizontale de la trajectoire](G:/My Drive/Professionnel/Recherche d'emplois/Portfolio/Projets Universitaires/Générateur de trajectoir paramétrique\media\Pasted image 20230415183409.png|300)
+![Figure 30  Profil de position vitesse et acceleration de la composante horizontale de la trajectoire](media/Pasted%20image%2020230415183409.png%7C300)
 
 
 
