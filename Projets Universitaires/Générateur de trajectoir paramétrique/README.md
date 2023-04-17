@@ -8,7 +8,7 @@ La trajectoire est ensuite réorientée pour produire un mouvement en 3D dans l'
 
 ## Aperçu
 
-![Figure19 Exemple detrajectoire gnrepar les quations paramtriques](media/Pasted%20image%2020230415183223.png)
+![Figure19 Exemple detrajectoire gnrepar les quations paramtriques](media/Pasted%20image%2020230415183223.png%7C300)
 
 ![Profil de deplacement horizontal en fonction du temps](media/Pasted%20image%2020230415183257.png%7C300)
 
