@@ -1,24 +1,12 @@
-# Projets Standby Overview
-
-
-
- 
-
-
-
-```ccard
-
-
-
-type: folder_brief_live
-
-
-
-```
-
-
-
- 
-
-
-
+# Projets Standby Overview
+
+ 
+
+```ccard
+
+type: folder_brief_live
+
+```
+
+ 
+

@@ -1,0 +1,1 @@
+![[Vidéo de l’animation du modèle 3D.mp4]]
