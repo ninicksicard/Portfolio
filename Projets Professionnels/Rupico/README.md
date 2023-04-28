@@ -3,7 +3,7 @@
 
  Quelques projets sur lesquels j'ai travaillé au cours de mon stage sont présentés ici.
 
-[Platforme de test pour boba](Portfolio/Projets Professionnels/Rupico/Boba - platforme de test/Boba - platforme de test)
+[Boba - platforme de test/Boba - platforme de test](Boba%20-%20platforme%20de%20test)
 
 ![Figure 6 Prototype d'un distributeur de goutes pour cuisine moléculaire](Boba%20-%20platforme%20de%20test/media/Pasted%20image%2020230416164253.png)
 
