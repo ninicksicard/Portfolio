@@ -1,1 +1,1 @@
-![[20220805_115548.mp4|300]]
+![[Portfolio/Projets Professionnels/Rupico/Cellule robotique pnp/media/20220805_115548.mp4]]

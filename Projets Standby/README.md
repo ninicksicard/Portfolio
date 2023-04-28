@@ -1,12 +1,6 @@
-# Projets Standby Overview
-
- 
-
-```ccard
-
-type: folder_brief_live
-
-```
-
- 
-
+Les projets présent dans ce répertoir sont en pause pour diverses raisons. 
+
+ 
+
+
+

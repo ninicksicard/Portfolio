@@ -1,1 +1,1 @@
-![[Pasted image 20230415183257.png|300]]
+![[Portfolio/Projets Universitaires/Générateur de trajectoir paramétrique/media/Pasted image 20230415183257.png|300]]

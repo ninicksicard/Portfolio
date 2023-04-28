@@ -1,3 +1,1 @@
-
-
-![[Pasted image 20230416164028.png]]
+![[Portfolio/Projets Professionnels/Rupico/Cellule robotique pnp/media/Pasted image 20230416164028.png]]

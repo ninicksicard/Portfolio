@@ -1,1 +1,1 @@
-![[Pasted image 20230416164232.png]]
+![[Portfolio/Projets Professionnels/Rupico/scanner médical - soulève cuisse/media/Pasted image 20230416164232.png]]
