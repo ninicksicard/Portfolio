@@ -10,7 +10,7 @@ Le logiciel SolidWorks a été employé pour réaliser l'optimisation topologiqu
 
 La première étape a consisté à retirer une portion importante de matière du centre de l'avant du pied, créant une cavité substantielle. ![[Figure x - Résultats initiaux de l'optimisation topologique]]
 
-La seconde étape a permis d'affiner l'optimisation, en identifiant plus précisément les zones où la matière pouvait être enlevée sans compromettre les performances requises. ![[Figure x - Résultat d'analyse statique du pied]]
+La seconde étape a permis d'affiner l'optimisation, en identifiant plus précisément les zones où la matière pouvait être enlevée sans compromettre les performances requises. ![[Figure x Résultat d'analyse statique du pied]]
 
 Le résultat final a été l'obtention d'une pièce optimisée, prête à être intégrée au système robotique, offrant une meilleure performance et un poids réduit.
 

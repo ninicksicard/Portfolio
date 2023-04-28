@@ -1,12 +1,14 @@
-# Portfolio Overview
+Ce portfolio est en construction!
 
-```ccard
+Projets notables : 
+[[Robot Bipède - optimisation topologique]]
+![[Figure x Résultat d'analyse statique du pied]]
 
-type: folder_brief_live
+[[Générateur de trajectoir paramétrique]]
+![[Figure19 Exemple detrajectoire gnrepar les quations paramtriques]]
 
-```
-
-Ce portfolio est en construction! (probablement indéfiniment, puisque ce format ne me convient pas parfaitement et j'ai beaucoup de projets à documenter.)
+[[Boba - platforme de test]]
+![[pinch valve à cam controlé par servomoteur]]
 
 Mon portfolio précédent, qui n'est pas parfait non-plus, ce trouve à l'addresse suivante : https://nicolassicardroy.wixsite.com/demo
 
