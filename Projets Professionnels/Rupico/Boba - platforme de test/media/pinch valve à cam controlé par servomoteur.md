@@ -1,1 +1,1 @@
-![[20220718_070904.jpg|300]]
+![[Portfolio/Projets Professionnels/Rupico/Boba - platforme de test/media/20220718_070904.jpg|300]]
